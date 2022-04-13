@@ -1,5 +1,5 @@
 {
-  "name": "DhaniGans",
+  "name": "SKDPBOT",
   "version": "1.0.0",
   "description": "None",
   "main": "main.js",
@@ -47,7 +47,7 @@
   "keywords": [
     "Wasu"
   ],
-  "author": "DhaniGans",
+  "author": "SKDPBOT",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/BOTZ-DHANI/BOTZ-DHANI/issue"

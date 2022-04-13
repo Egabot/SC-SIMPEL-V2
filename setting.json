@@ -5,9 +5,9 @@
 "autoketik": false,
 "autovn": false,
 "mode": false,
-"OwnerNumber": "6283875880051",
-"OwnerName": "skdp bot",
-"BotName": "skdp bot",
+"OwnerNumber": "6281368176386",
+"OwnerName": "skdpgans",
+"BotName": "skdp>bot>",
 "teks2": "*© skpd*",
 "bgwel": "https://telegra.ph/file/5fa6532fb8bf0f0e579f2.jpg",
 "modelmenu": "lokasi",
@@ -15,8 +15,8 @@
 "modelmenu3": "fakeitem",
 "modelmenu4": "fakeitem",
 
-"owner1": "+6283875880051",
-"owner2": "+6283196756045",
+"owner1": "+6283802603905",
+"owner2": "+6281368176386",
 "owner3": "",
 "owner4": "",
 "owner5": "",
@@ -24,6 +24,6 @@
 "limitCount": 25,
 "gcount": 20,
 
-"dhakey": "MASUKAN_APIKEY_MU",
-"lolkey": "MASUKAN_APIKEY_MU"
+"dhakey": "https://bx-hunter.herokuapp.com",
+"lolkey": "https://bx-hunter.herokuapp.com"
 }
